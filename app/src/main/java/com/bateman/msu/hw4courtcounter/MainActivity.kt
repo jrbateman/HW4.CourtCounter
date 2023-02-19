@@ -7,6 +7,9 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.bateman.msu.hw4courtcounter.databinding.ActivityMainBinding
 
+
+/// this is a comment
+
 class MainActivity : AppCompatActivity() {
 
     var scoreTeamA = 0
